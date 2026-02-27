@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif
+
 <!--
 **JuliooCezar/JuliooCezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
